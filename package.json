@@ -1,0 +1,40 @@
+{
+  "name": "jfongdesign",
+  "version": "1.0.0",
+  "description": "JFONG DESIGN (2.0)",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.18.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnathanfong/reactapp.git"
+  },
+  "keywords": [
+    "graphic",
+    "design",
+    "design",
+    "portfolio",
+    "front-end",
+    "development",
+    "web",
+    "webdev",
+    "dev",
+    "Toronto"
+  ],
+  "author": "Johnathan Fong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnathanfong/reactapp/issues"
+  },
+  "homepage": "https://github.com/johnathanfong/reactapp#readme"
+}
